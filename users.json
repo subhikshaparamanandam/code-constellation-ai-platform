@@ -1,0 +1,17 @@
+{
+    "psubhikshap@gmail.com": {
+        "name": "Subhiksha",
+        "progress": {
+            "explanations": 0,
+            "practice": 0,
+            "quizzes": 0
+        },
+        "completed_topics": [
+            "Data Types",
+            "Variables",
+            "Functions"
+        ],
+        "quiz_scores": {},
+        "certificate": false
+    }
+}

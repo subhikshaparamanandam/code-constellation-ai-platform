@@ -1,0 +1,4 @@
+.env
+.video_cache
+.venv/
+__pycache__/
